@@ -29,8 +29,8 @@ Welcome to the Calculator page! This project is a simple, yet completely working
 
 The project contains the following files:
 
-- The HTML file 'index.html' contains the calculator's structure.
--'styles.css': The CSS file for styling the calculator.
--'script.js': The JavaScript file that controls the calculator's functions.
+- The HTML file 'calculator.html' contains the calculator's structure.
+-'calculator.css': The CSS file for styling the calculator.
+-'calculator.js': The JavaScript file that controls the calculator's functions.
 
 Thank you for checking out my Calculator Page! I hope you find it useful and easy to use.
